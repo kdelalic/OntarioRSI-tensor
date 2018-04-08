@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Grey</item>
+
+    </string-array>
+    <string-array name="descRing">
+        <item>Number</item>
+        <item>Vehicle</item>
+        <item>Two Vehicles</item>
+        <item>White line</item>
+        <item/>
+
+
+    </string-array>
+    <string-array name="descTriangle">
+        <item>Animal</item>
+        <item>Arrows</item>
+        <item>People</item>
+        <item>Inanimate Object</item>
+        <item>Vehicle</item>
+        <item>Upside down</item>
+        <item/>
+
+
+    </string-array>
+    <string-array name="options">
+        <item>No Image</item>
+        <item>Two Vehicles</item>
+
+    </string-array>
+    <string-array name="shapes">
+        <item>Triangle</item>
+        <item>Ring/Circle</item>
+        <item>Octagon</item>
+
+    </string-array>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="white">#ffffff</color>
+    <string name="app_name">OntarioRSI</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.Base" parent="android:Theme.Holo.Light"/>
+</resources>

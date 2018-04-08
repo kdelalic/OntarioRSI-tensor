@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </RelativeLayout>
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="10dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/question3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="37dp"
+            android:layout_marginStart="37dp"
+            android:text="What do you see on the sign?" />
+
+        <Spinner
+            android:id="@+id/options_chooser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/options"
+            android:layout_toRightOf="@+id/question3"
+            android:layout_toEndOf="@+id/question3"
+            android:layout_centerVertical="true">
+        </Spinner>
+
+    </RelativeLayout>
+</LinearLayout>

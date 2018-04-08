@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </RelativeLayout>
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="10dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/question2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/shape_chooser"
+            android:layout_marginLeft="47dp"
+            android:layout_marginStart="47dp"
+            android:text="What is the shape of the sign?" />
+
+        <Spinner
+            android:id="@+id/shape_chooser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/shapes"
+            android:layout_toRightOf="@+id/question2"
+            android:layout_toEndOf="@+id/question2"
+            android:layout_centerVertical="true">
+        </Spinner>
+
+    </RelativeLayout>
+</LinearLayout>
