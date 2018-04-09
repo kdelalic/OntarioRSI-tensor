@@ -1,134 +1,136 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\166549d2560d1e726654667b51a93017\AndroidManifest.xml:2:1-8:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b05a4d0677a8874765703b4e6311e814\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3eeb67b7cabf620c6c6dfc69b5562ba8\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\942a619b6c230e9d6c8ba88b6fa742f1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\627f9af0ff86492e0b6dee0e0a52924d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1fc4bc32df21b5cabb7e7216f5f45f86\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\e01e8fd67134ab497b87397f88cc55da\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\625a60f5709fd331ae34d4d6706f6f83\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\1a480ce32815a1133df890a4e59dd76b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\573c8490c56ce9ee1a6126531175d7b8\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\910dea19c43d129ad66165e9f276f1a0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bf815c599a516a5ded678771f22796f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dee7171348e7388aafb64a9958e29cfa\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\e84a02e082a53ec672db209671575b79\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b73a90dc996d792c92241a50de30f5d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcc44d5e20f802ba42f276e19aa35d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\213c1eedae8bda685c5a23bd5f2b8cec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\645e230100b8099825a29dada0650482\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\109ddee57dac865af20447680d2b3849\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\aa1d2b493c5bcbfd92671edeb4d44579\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bdb457078630f78b57787fbfb799918a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\d8caba9a81ed3316205fd793bfd8af4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d2855a778508e75ad8e43d6aa6bc9d95\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2bee15469d5ee883a67458711d90500a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5fcd258b1ffb126a0855ef952fc0377\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6a865ba42ef19692326e31f4df5753fd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
 	package
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:19:5-34
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:19:5-34
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:21:5-65
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:21:22-62
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:21:22-62
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:22:5-78
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:22:5-78
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:22:22-76
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:22:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:23:5-66
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:23:5-66
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:23:22-64
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:23:22-64
 uses-feature#android.hardware.camera
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:24:5-60
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:24:5-60
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:24:19-57
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:24:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:25:5-70
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:25:5-70
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:25:19-67
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:25:19-67
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:26:5-80
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:26:5-80
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:26:22-78
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:26:22-78
 application
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:28:5-41:19
-MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\166549d2560d1e726654667b51a93017\AndroidManifest.xml:5:5-6:19
-MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\166549d2560d1e726654667b51a93017\AndroidManifest.xml:5:5-6:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3eeb67b7cabf620c6c6dfc69b5562ba8\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3eeb67b7cabf620c6c6dfc69b5562ba8\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:28:5-42:19
+MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\e84a02e082a53ec672db209671575b79\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\e84a02e082a53ec672db209671575b79\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcc44d5e20f802ba42f276e19aa35d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcc44d5e20f802ba42f276e19aa35d\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:29:9-41
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:29:9-41
 	android:icon
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:30:9-45
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:30:9-45
 	android:allowBackup
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:28:18-44
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:28:18-44
 	android:theme
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:31:9-45
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:31:9-45
 activity#org.tensorflow.demo.MainActivity
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:33:9-40:20
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:33:9-39:20
 	android:screenOrientation
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:34:19-55
-	android:label
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:35:19-71
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:34:19-55
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:33:19-66
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:33:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:36:13-39:29
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:37:27-74
+activity#org.tensorflow.demo.ClassifierActivity
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:40:19-53
 uses-sdk
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b05a4d0677a8874765703b4e6311e814\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b05a4d0677a8874765703b4e6311e814\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3eeb67b7cabf620c6c6dfc69b5562ba8\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3eeb67b7cabf620c6c6dfc69b5562ba8\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\942a619b6c230e9d6c8ba88b6fa742f1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\942a619b6c230e9d6c8ba88b6fa742f1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\627f9af0ff86492e0b6dee0e0a52924d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\627f9af0ff86492e0b6dee0e0a52924d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1fc4bc32df21b5cabb7e7216f5f45f86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1fc4bc32df21b5cabb7e7216f5f45f86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\e01e8fd67134ab497b87397f88cc55da\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\e01e8fd67134ab497b87397f88cc55da\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\625a60f5709fd331ae34d4d6706f6f83\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\625a60f5709fd331ae34d4d6706f6f83\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\1a480ce32815a1133df890a4e59dd76b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\1a480ce32815a1133df890a4e59dd76b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\573c8490c56ce9ee1a6126531175d7b8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\573c8490c56ce9ee1a6126531175d7b8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\910dea19c43d129ad66165e9f276f1a0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\910dea19c43d129ad66165e9f276f1a0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bf815c599a516a5ded678771f22796f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5bf815c599a516a5ded678771f22796f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dee7171348e7388aafb64a9958e29cfa\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MudkipLaptop\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dee7171348e7388aafb64a9958e29cfa\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b73a90dc996d792c92241a50de30f5d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b73a90dc996d792c92241a50de30f5d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcc44d5e20f802ba42f276e19aa35d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcc44d5e20f802ba42f276e19aa35d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\213c1eedae8bda685c5a23bd5f2b8cec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\213c1eedae8bda685c5a23bd5f2b8cec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\645e230100b8099825a29dada0650482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\645e230100b8099825a29dada0650482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\109ddee57dac865af20447680d2b3849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\109ddee57dac865af20447680d2b3849\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\aa1d2b493c5bcbfd92671edeb4d44579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\aa1d2b493c5bcbfd92671edeb4d44579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bdb457078630f78b57787fbfb799918a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\bdb457078630f78b57787fbfb799918a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\d8caba9a81ed3316205fd793bfd8af4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\d8caba9a81ed3316205fd793bfd8af4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d2855a778508e75ad8e43d6aa6bc9d95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d2855a778508e75ad8e43d6aa6bc9d95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2bee15469d5ee883a67458711d90500a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2bee15469d5ee883a67458711d90500a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5fcd258b1ffb126a0855ef952fc0377\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5fcd258b1ffb126a0855ef952fc0377\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6a865ba42ef19692326e31f4df5753fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6a865ba42ef19692326e31f4df5753fd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+IMPLIED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\MudkipLaptop\Desktop\tensorflow-classifier-android\app\src\main\AndroidManifest.xml:18:1-43:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

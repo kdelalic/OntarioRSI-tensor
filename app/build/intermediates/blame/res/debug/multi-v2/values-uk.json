@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\MudkipLaptop\\Desktop\\tensorflow-classifier-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
+            "outputFile": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MudkipLaptop\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b05a4d0677a8874765703b4e6311e814\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\MudkipLaptop\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\1a480ce32815a1133df890a4e59dd76b\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\d8caba9a81ed3316205fd793bfd8af4b\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

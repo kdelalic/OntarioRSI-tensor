@@ -1,29 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\MudkipLaptop\\Desktop\\tensorflow-classifier-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MudkipLaptop\\Desktop\\tensorflow-classifier-android\\app\\src\\main\\res\\values-v11\\arrays.xml",
+                    "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\values-v11\\colors.xml",
                     "from": {
-                        "startLines": "2,31,20,15,9",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "57,777,499,375,223",
-                        "endLines": "8,39,30,19,14",
-                        "endColumns": "19,19,19,19,19",
-                        "endOffsets": "217,982,771,493,369"
+                        "startLines": "4,2,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "157,57,105,204",
+                        "endColumns": "45,46,50,39",
+                        "endOffsets": "198,99,151,239"
                     },
                     "to": {
-                        "startLines": "2,9,18,29,34",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,214,410,671,790",
-                        "endLines": "8,17,28,33,39",
-                        "endColumns": "19,19,19,19,19",
-                        "endOffsets": "209,405,666,785,931"
+                        "startLines": "40,41,42,43",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "936,982,1029,1080",
+                        "endColumns": "45,46,50,39",
+                        "endOffsets": "977,1024,1075,1115"
                     }
                 },
                 {
-                    "source": "C:\\Users\\MudkipLaptop\\Desktop\\tensorflow-classifier-android\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -42,24 +40,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\MudkipLaptop\\Desktop\\tensorflow-classifier-android\\app\\src\\main\\res\\values-v11\\colors.xml",
+                    "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\values-v11\\arrays.xml",
                     "from": {
-                        "startLines": "4,2,3,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "157,57,105,204",
-                        "endColumns": "45,46,50,39",
-                        "endOffsets": "198,99,151,239"
+                        "startLines": "2,31,20,15,9",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "57,777,499,375,223",
+                        "endLines": "8,39,30,19,14",
+                        "endColumns": "19,19,19,19,19",
+                        "endOffsets": "217,982,771,493,369"
                     },
                     "to": {
-                        "startLines": "40,41,42,43",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "936,982,1029,1080",
-                        "endColumns": "45,46,50,39",
-                        "endOffsets": "977,1024,1075,1115"
+                        "startLines": "2,9,18,29,34",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,214,410,671,790",
+                        "endLines": "8,17,28,33,39",
+                        "endColumns": "19,19,19,19,19",
+                        "endOffsets": "209,405,666,785,931"
                     }
                 },
                 {
-                    "source": "C:\\Users\\MudkipLaptop\\Desktop\\tensorflow-classifier-android\\app\\src\\main\\res\\values-v11\\strings.xml",
+                    "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\values-v11\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -76,7 +76,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\MudkipLaptop\\Desktop\\tensorflow-classifier-android\\app\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\values-v11\\template-styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

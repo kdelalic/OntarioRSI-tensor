@@ -72,6 +72,7 @@ public class MainActivity extends Activity {
     public String colorChoice;
     public String shapeChoice;
     public String descChoice;
+    //ClassifierActivity id = new ClassifierActivity();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -82,15 +83,18 @@ public class MainActivity extends Activity {
         btnAbout = findViewById(R.id.about);
         title = findViewById(R.id.textView);
         btnQ = findViewById(R.id.questionnaire);
-        btnQ.setVisibility(View.INVISIBLE);
+        //btnQ.setVisibility(View.INVISIBLE);
+        btnCamera.setVisibility(View.INVISIBLE);
 
         btnCamera.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //Intent intent = new Intent("android.media.action.IMAGE_CAPTURE");
                 //startActivity(intent);
-                takePicture();
-                buttonDisappear();
+                Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
+                startActivity(classifyIntent);
+                //takePicture();
+                //buttonDisappear();
             }
         });
 
@@ -255,9 +259,10 @@ public class MainActivity extends Activity {
 
                                         alertDialogBuilder.setView(promptsView);
                                         alertDialogBuilder.setTitle("Question 3");
-                                        alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
+                                        alertDialogBuilder.setPositiveButton("Take Picture", new DialogInterface.OnClickListener() {
                                             public void onClick(DialogInterface dialog, int whichButton) {
-                                                //Put actions for CANCEL button here, or leave in blank
+                                                Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
+                                                startActivity(classifyIntent);
                                             }
                                         });
                                         alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -285,9 +290,10 @@ public class MainActivity extends Activity {
 
                                         alertDialogBuilder.setView(promptsView);
                                         alertDialogBuilder.setTitle("Question 3");
-                                        alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
+                                        alertDialogBuilder.setPositiveButton("Take Picture", new DialogInterface.OnClickListener() {
                                             public void onClick(DialogInterface dialog, int whichButton) {
-                                                //Put actions for CANCEL button here, or leave in blank
+                                                Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
+                                                startActivity(classifyIntent);
                                             }
                                         });
                                         alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -330,9 +336,10 @@ public class MainActivity extends Activity {
                             alertDialogBuilder.setView(promptsView3);
                             alertDialogBuilder.setTitle("Question 2");
 
-                            alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
+                            alertDialogBuilder.setPositiveButton("Take Picture", new DialogInterface.OnClickListener() {
                                 public void onClick(DialogInterface dialog, int whichButton) {
-                                    //Put actions for CANCEL button here, or leave in blank
+                                    Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
+                                    startActivity(classifyIntent);
                                 }
                             });
                             alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -387,16 +394,16 @@ public class MainActivity extends Activity {
     private static final String LABEL_FILE =
             "file:///android_asset/retrained_labels.txt";
 
-    Classifier classifier =
-            TensorFlowImageClassifier.create(
-    getAssets(),
-    MODEL_FILE,
-    LABEL_FILE,
-    INPUT_SIZE,
-    IMAGE_MEAN,
-    IMAGE_STD,
-    INPUT_NAME,
-    OUTPUT_NAME);
+//    Classifier classifier =
+//            TensorFlowImageClassifier.create(
+//    getAssets(),
+//    MODEL_FILE,
+//    LABEL_FILE,
+//    INPUT_SIZE,
+//    IMAGE_MEAN,
+//    IMAGE_STD,
+//    INPUT_NAME,
+//    OUTPUT_NAME);
     private void takePicture(){ //you can call this every 5 seconds using a timer or whenever you want
         Intent cameraIntent = new  Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
         startActivityForResult(cameraIntent, CAMERA_REQUEST);
@@ -407,10 +414,10 @@ public class MainActivity extends Activity {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == CAMERA_REQUEST && resultCode == Activity.RESULT_OK) {
             Bitmap picture = (Bitmap) data.getExtras().get("data");//this is your bitmap image and now you can do whatever you want with this
-            final List<Classifier.Recognition> results = classifier.recognizeImage(picture);
-            for (final Recognition recog : results) {
-                System.out.println(recog.getTitle() + ": " + recog.getConfidence());
-            }
+            //final List<Classifier.Recognition> results = id.classifier.recognizeImage(picture);
+//            for (final Recognition recog : results) {
+//                System.out.println(recog.getTitle() + ": " + recog.getConfidence());
+//            }
         }
     }
 

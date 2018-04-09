@@ -82,7 +82,7 @@ public class ClassifierActivity extends CameraActivity implements OnImageAvailab
 
 
   private Integer sensorOrientation;
-  private Classifier classifier;
+  public Classifier classifier;
   private Matrix frameToCropTransform;
   private Matrix cropToFrameTransform;
 
