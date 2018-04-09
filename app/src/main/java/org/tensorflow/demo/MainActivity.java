@@ -3,6 +3,7 @@ package org.tensorflow.demo;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.view.KeyEvent;
 import android.view.View;
         import android.Manifest;
         import android.app.AlertDialog;
@@ -263,6 +264,8 @@ public class MainActivity extends Activity {
                                             public void onClick(DialogInterface dialog, int whichButton) {
                                                 Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
                                                 startActivity(classifyIntent);
+
+
                                             }
                                         });
                                         alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -294,6 +297,7 @@ public class MainActivity extends Activity {
                                             public void onClick(DialogInterface dialog, int whichButton) {
                                                 Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
                                                 startActivity(classifyIntent);
+
                                             }
                                         });
                                         alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -372,6 +376,16 @@ public class MainActivity extends Activity {
 
         });
 
+    }
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event)  {
+        if (keyCode == KeyEvent.KEYCODE_BACK && event.getRepeatCount() == 0) {
+            finish();
+            System.out.println("hi");
+            return true;
+        }
+
+        return super.onKeyDown(keyCode, event);
     }
 
     private void buttonDisappear() {

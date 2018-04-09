@@ -32,6 +32,7 @@ public class RecognitionScoreView extends View implements ResultsView {
   private final float textSizePx;
   private final Paint fgPaint;
   private final Paint bgPaint;
+  public static int title;
 
   public RecognitionScoreView(final Context context, final AttributeSet set) {
     super(context, set);
@@ -60,6 +61,7 @@ public class RecognitionScoreView extends View implements ResultsView {
     canvas.drawPaint(bgPaint);
 
     if (results != null) {
+      title = Integer.parseInt(results.get(0).getTitle().split(" ")[1]);
       for (final Recognition recog : results) {
         canvas.drawText(recog.getTitle() + ": " + recog.getConfidence(), x, y, fgPaint);
         System.out.println(recog.getTitle() + " test");
