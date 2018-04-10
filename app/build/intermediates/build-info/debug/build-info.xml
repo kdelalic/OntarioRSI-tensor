@@ -7,22 +7,22 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.0.0"
-    timestamp="1523316927937"
+    timestamp="1523324340829"
     token="-4709525993392101253"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="470" />
+        duration="4027" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="25" />
+        duration="84" />
     <task
         name="verifier"
-        duration="3" />
+        duration="233" />
 
     <artifact
         location="C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -33,7 +33,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1523308852064"
+        timestamp="1523318567374"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -74,8 +74,8 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_REMOVED"
-        timestamp="1523315940944"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1523320555017"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -96,7 +96,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1523316809286"
+        timestamp="1523323955122"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\build\outputs\apk\debug\app-debug.apk"
@@ -105,7 +105,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1523316927937"
+        timestamp="1523324340829"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\build\intermediates\split-apk\debug\slices\slice_8.apk"

@@ -124,12 +124,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
@@ -144,12 +144,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
         "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -252,12 +252,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -276,12 +276,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
@@ -316,12 +316,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -452,12 +452,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
@@ -484,12 +484,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\layout\\abc_tooltip.xml"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -636,12 +636,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\layout_ring_layout.xml.flat",
-        "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\layout\\ring_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\layout_ring_layout.xml.flat",
+        "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\layout\\ring_layout.xml"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
@@ -680,12 +680,12 @@
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -1266,6 +1266,10 @@
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Kshitij\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b73a90dc996d792c92241a50de30f5d4\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\layout_result_layout.xml.flat",
+        "source": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\src\\main\\res\\layout\\result_layout.xml"
     },
     {
         "merged": "C:\\Users\\Kshitij\\Desktop\\OntarioRSI-tensor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",

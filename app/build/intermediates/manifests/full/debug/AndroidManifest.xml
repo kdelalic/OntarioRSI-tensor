@@ -51,6 +51,7 @@
             </intent-filter>
         </activity>
         <activity android:name="org.tensorflow.demo.ClassifierActivity" />
+        <activity android:name="org.tensorflow.demo.Results" />
     </application>
 
 </manifest>

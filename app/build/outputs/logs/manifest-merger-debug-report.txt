@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
 MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\e84a02e082a53ec672db209671575b79\AndroidManifest.xml:2:1-8:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b73a90dc996d792c92241a50de30f5d4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcc44d5e20f802ba42f276e19aa35d\AndroidManifest.xml:2:1-11:12
@@ -17,20 +17,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kshitij\.gradl
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2bee15469d5ee883a67458711d90500a\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d5fcd258b1ffb126a0855ef952fc0377\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6a865ba42ef19692326e31f4df5753fd\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
-INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
+INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
 	package
 		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:19:5-34
 		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12
 		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:11-69
@@ -59,7 +59,7 @@ ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManife
 	android:name
 		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:26:22-78
 application
-ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:28:5-42:19
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:28:5-43:19
 MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\e84a02e082a53ec672db209671575b79\AndroidManifest.xml:5:5-6:19
 MERGED from [org.tensorflow:tensorflow-android:1.4.0] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.4.0.aar\e84a02e082a53ec672db209671575b79\AndroidManifest.xml:5:5-6:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kshitij\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0cdcc44d5e20f802ba42f276e19aa35d\AndroidManifest.xml:9:5-20
@@ -92,6 +92,10 @@ activity#org.tensorflow.demo.ClassifierActivity
 ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:40:9-56
 	android:name
 		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:40:19-53
+activity#org.tensorflow.demo.Results
+ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:41:9-45
+	android:name
+		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:41:19-42
 uses-sdk
 INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
@@ -131,6 +135,6 @@ INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidMan
 		ADDED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+IMPLIED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-44:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Kshitij\Desktop\OntarioRSI-tensor\app\src\main\AndroidManifest.xml:18:1-45:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

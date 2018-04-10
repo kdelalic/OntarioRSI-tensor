@@ -9,8 +9,7 @@ import android.view.View;
         import android.app.AlertDialog;
         import android.content.Context;
         import android.content.DialogInterface;
-        import android.content.Intent;
-        import android.content.pm.PackageManager;
+import android.content.pm.PackageManager;
         import android.location.Location;
         import android.location.LocationListener;
         import android.location.LocationManager;
@@ -21,11 +20,8 @@ import android.view.View;
         import android.provider.Settings;
         import android.support.annotation.NonNull;
         import android.support.v4.app.ActivityCompat;
-        import android.support.v4.content.ContextCompat;
-        import android.support.v7.app.AppCompatActivity;
-        import android.view.LayoutInflater;
-        import android.view.View;
-        import android.widget.Button;
+import android.view.LayoutInflater;
+import android.widget.Button;
         import android.widget.Spinner;
         import android.widget.TextView;
         import android.widget.Toast;
@@ -36,27 +32,7 @@ import android.view.View;
 
         import java.io.File;
         import java.io.IOException;
-import java.util.List;
 import java.util.concurrent.ExecutionException;
-import org.tensorflow.demo.Classifier.Recognition;
-import android.graphics.Bitmap;
-import android.graphics.Bitmap.Config;
-import android.graphics.Canvas;
-import android.graphics.Matrix;
-import android.graphics.Paint;
-import android.graphics.Typeface;
-import android.media.ImageReader.OnImageAvailableListener;
-import android.os.SystemClock;
-import android.util.Size;
-import android.util.TypedValue;
-import android.view.Display;
-import java.util.List;
-import java.util.Vector;
-import org.tensorflow.demo.OverlayView.DrawCallback;
-import org.tensorflow.demo.env.BorderedText;
-import org.tensorflow.demo.env.ImageUtils;
-import org.tensorflow.demo.env.Logger;
-import org.tensorflow.demo.R; // Explicit import needed for internal Google builds.
 
 public class MainActivity extends Activity {
     Button btnCamera;
@@ -69,7 +45,7 @@ public class MainActivity extends Activity {
     private LocationManager locationManager;
     private LocationListener listener;
     int numberOfResults = 10;
-    String[] nearbyRoadSigns = new String[numberOfResults];
+    public String[] nearbyRoadSigns = new String[numberOfResults];
     public String colorChoice;
     public String shapeChoice;
     public String descChoice;
@@ -191,7 +167,6 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v){
 
-                locationManager.requestLocationUpdates("gps", 5000, 0, listener);
 
                 LayoutInflater li = LayoutInflater.from(context);
 
@@ -233,6 +208,8 @@ public class MainActivity extends Activity {
 
                 alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int whichButton) {
+                        locationManager.requestLocationUpdates("gps", 5000, 0, listener);
+
                         int inputUnit = ((Spinner) promptsView.findViewById(R.id.color_chooser)).getSelectedItemPosition();
                         colorChoice = ((Spinner) promptsView.findViewById(R.id.color_chooser)).getItemAtPosition(inputUnit).toString();
 
@@ -264,6 +241,7 @@ public class MainActivity extends Activity {
                                             public void onClick(DialogInterface dialog, int whichButton) {
                                                 Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
                                                 startActivity(classifyIntent);
+
 
 
                                             }
@@ -314,6 +292,8 @@ public class MainActivity extends Activity {
                                         int shapeUnit = ((Spinner) promptsView.findViewById(R.id.descRing_chooser)).getSelectedItemPosition();
                                         descChoice = ((Spinner) promptsView.findViewById(R.id.descRing_chooser)).getItemAtPosition(shapeUnit).toString();
                                     }
+
+
                                 }
                             });
                             alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -359,6 +339,8 @@ public class MainActivity extends Activity {
                             alertDialog3.setCanceledOnTouchOutside(true);
 
                         }
+//                        Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
+//                        startActivity(classifyIntent);
                     }
                 });
                 alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
@@ -380,13 +362,16 @@ public class MainActivity extends Activity {
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event)  {
         if (keyCode == KeyEvent.KEYCODE_BACK && event.getRepeatCount() == 0) {
-            finish();
-            System.out.println("hi");
+
+            this.finish();
+            Intent resultIntent = new Intent(MainActivity.this, Results.class);
+            startActivity(resultIntent);
             return true;
         }
-
-        return super.onKeyDown(keyCode, event);
+        return false;
     }
+
+
 
     private void buttonDisappear() {
         btnCamera.setVisibility(View.INVISIBLE);

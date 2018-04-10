@@ -14,7 +14,7 @@ public class questionnaireAgent {
         String desc = choices.descChoice;
         ArrayList<Integer> answer = new ArrayList<Integer>();
 
-        if (colour.equals("Red")) { 						// RED
+        if (colour.equals("Red")) {// RED
             if (shape.equals("Triangle")) { 					// TRIANGLE
                 if (desc.equals("Animal")) {						// ANIMAL
                     answer.add(31);

@@ -38,6 +38,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ClassifierActivity" />
+        <activity android:name=".Results" />
 
     </application>
 
