@@ -38,6 +38,10 @@ public class Results extends MainActivity {
 
     private void showResult() {
         int classNumber = Integer.parseInt(RecognitionScoreView.title.split(" ")[1]);
+
+        for (int i = 0; i < nearbyRoadSigns.length; i ++){
+            System.out.println("Before: " + nearbyRoadSigns[i]);
+        }
         DecisionController finalDecision = new DecisionController(qA.questionnaireAgent(), nearbyRoadSigns, classNumber);
         String finalConsensus = finalDecision.comeToConsensus();
         AlertDialog.Builder builder = new AlertDialog.Builder(this);

@@ -24,11 +24,15 @@ public class DecisionController {
 		// compare to questionnaire data
 		for (int i = 0; i < questionnaireData.size(); i++) {
 			if (tensorflowData == questionnaireData.get(i).intValue()) 
-				 return translateConsensus(i);
+				 return translateConsensus(tensorflowData);
 		}
 		
 		// mapillary stuff
 		int[] map = new int[mapillaryRawData.length];
+
+		for (int i = 0; i < mapillaryRawData.length; i++){
+			System.out.println("Mapillary: " + mapillaryRawData[i]);
+		}
 		translateMapData(map);
 		for (int i = 0; i < map.length; i++) {
 			if (tensorflowData == map[i])

@@ -8,10 +8,9 @@ import java.util.ArrayList;
 
 public class questionnaireAgent {
     public ArrayList<Integer> questionnaireAgent() {
-        MainActivity choices = new MainActivity();
-        String colour = choices.colorChoice;
-        String shape = choices.shapeChoice;
-        String desc = choices.descChoice;
+        String colour = MainActivity.colorChoice;
+        String shape = MainActivity.shapeChoice;
+        String desc = MainActivity.descChoice;
         ArrayList<Integer> answer = new ArrayList<Integer>();
 
         if (colour.equals("Red")) {// RED

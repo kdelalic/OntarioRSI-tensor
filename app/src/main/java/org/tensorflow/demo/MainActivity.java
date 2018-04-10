@@ -46,9 +46,9 @@ public class MainActivity extends Activity {
     private LocationListener listener;
     int numberOfResults = 10;
     public String[] nearbyRoadSigns = new String[numberOfResults];
-    public String colorChoice;
-    public String shapeChoice;
-    public String descChoice;
+    public static String colorChoice;
+    public static String shapeChoice;
+    public static String descChoice;
     //ClassifierActivity id = new ClassifierActivity();
 
     @Override
@@ -195,6 +195,12 @@ public class MainActivity extends Activity {
         btnQ.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v){
+                locationManager.requestLocationUpdates("gps", 5000, 0, listener);
+
+                btnQ.setVisibility(View.INVISIBLE);
+                btnAbout.setVisibility(View.INVISIBLE);
+                btnCamera.setVisibility(View.VISIBLE);
+
                 LayoutInflater li = LayoutInflater.from(context);
 
                 final View promptsView = li.inflate(R.layout.color_layout, null);
@@ -208,7 +214,6 @@ public class MainActivity extends Activity {
 
                 alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int whichButton) {
-                        locationManager.requestLocationUpdates("gps", 5000, 0, listener);
 
                         int inputUnit = ((Spinner) promptsView.findViewById(R.id.color_chooser)).getSelectedItemPosition();
                         colorChoice = ((Spinner) promptsView.findViewById(R.id.color_chooser)).getItemAtPosition(inputUnit).toString();
@@ -237,12 +242,8 @@ public class MainActivity extends Activity {
 
                                         alertDialogBuilder.setView(promptsView);
                                         alertDialogBuilder.setTitle("Question 3");
-                                        alertDialogBuilder.setPositiveButton("Take Picture", new DialogInterface.OnClickListener() {
+                                        alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
                                             public void onClick(DialogInterface dialog, int whichButton) {
-                                                Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
-                                                startActivity(classifyIntent);
-
-
 
                                             }
                                         });
@@ -271,10 +272,8 @@ public class MainActivity extends Activity {
 
                                         alertDialogBuilder.setView(promptsView);
                                         alertDialogBuilder.setTitle("Question 3");
-                                        alertDialogBuilder.setPositiveButton("Take Picture", new DialogInterface.OnClickListener() {
+                                        alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
                                             public void onClick(DialogInterface dialog, int whichButton) {
-                                                Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
-                                                startActivity(classifyIntent);
 
                                             }
                                         });
@@ -320,10 +319,9 @@ public class MainActivity extends Activity {
                             alertDialogBuilder.setView(promptsView3);
                             alertDialogBuilder.setTitle("Question 2");
 
-                            alertDialogBuilder.setPositiveButton("Take Picture", new DialogInterface.OnClickListener() {
+                            alertDialogBuilder.setPositiveButton("Next", new DialogInterface.OnClickListener() {
                                 public void onClick(DialogInterface dialog, int whichButton) {
-                                    Intent classifyIntent = new Intent(MainActivity.this, ClassifierActivity.class);
-                                    startActivity(classifyIntent);
+
                                 }
                             });
                             alertDialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
